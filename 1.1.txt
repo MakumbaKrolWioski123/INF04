@@ -1,0 +1,6 @@
+1.Main to głowna funkcja programu, wykonuje wpisany w niej kod.
+2.Console.WriteLine pisze następnej linni programu a Console.Write
+zostawia kursor w aktualnej linii.
+3.Console.ReadLine zwraca ciąg znaków w postaci stringa.
+4.Kompilacja słuzy do przetworzenia kodu na dzialajacy program.
+5.Średnikiem.
